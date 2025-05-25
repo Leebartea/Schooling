@@ -30,7 +30,6 @@ li {
     background-color: black;
     max-width: 400px;
     text-align: center;
-    min-width: 200px;
 }
 
 .code {
@@ -49,6 +48,7 @@ li {
     max-width: 600px;
     gap: 10px;
     background-color: plum;
+    min-width: 200px;
 }
 
 .container > * {
